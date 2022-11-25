@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MWaCp9opaSqTvkNTLzAw2XpwZ5ntbwOSpnM8K8p4FTOyJ70fhijeHJ788OAl3Y+iXfhf3SWZ3Gm9bYc9h1kHQ==",
+  "success": true,
+  "projectFilePath": "E:\\Labirint_Sharp_For_Class\\Labirint_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\nunittestadapter\\2.3.0\\nunittestadapter.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
